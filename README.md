@@ -2,8 +2,6 @@
 
 Welcome to the **Medical Prescription Parsing** project! This web application leverages AI to accurately transcribe handwritten medical prescriptions into structured data.
 
-![Project Banner](link-to-your-image) <!-- Optional: Add a banner image -->
-
 ## 🌟 Features
 
 - **Image Upload:** Supports PNG, JPG, and JPEG formats.
