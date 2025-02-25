@@ -61,4 +61,7 @@ Welcome to the **Medical Prescription Parsing** project! This web application le
 - **After Uploading Prescription Image**
 <img width="1898" alt="Screenshot 2025-02-26 at 12 43 41 AM" src="https://github.com/user-attachments/assets/1f0f1350-80f4-4064-b7d6-fd2f935c6f34" />
 
+---
+
+*Thank you for checking out the Medical Prescription Parsing project! We hope you find it useful and informative.* 🌟
    
