@@ -47,9 +47,9 @@ Welcome to the **Medical Prescription Parsing** project! This web application le
    ```bash
    streamlit run main.py
    ```
-2. **Upload a Prescription Image: **
+2. **Upload a Prescription Image:**
    **use the web interface to upload an image**
 
 3. **View Extracted Information:**
-   **The application will display the parsed data.**
+   - **The application will display the parsed data.**
    
