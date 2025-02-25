@@ -53,7 +53,7 @@ Welcome to the **Medical Prescription Parsing** project! This web application le
 3. **View Extracted Information:**
    - **The application will display the parsed data.**
   
-##📷Screenshorts##
+##📷Screenshorts
 <img width="1920" alt="Screenshot 2025-02-26 at 12 40 25 AM" src="https://github.com/user-attachments/assets/8d9d1eb7-3adb-42bf-b148-2975554cdb9c" />
 
 
