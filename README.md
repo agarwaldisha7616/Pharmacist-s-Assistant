@@ -33,7 +33,7 @@ Welcome to the **Medical Prescription Parsing** project! This web application le
    ```
 2.  **Install Dependencies:**
    ```bash
-      pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 3. **Set Up Environment Variables:**
    **Create a .env file and add your OpenAI API key:**
