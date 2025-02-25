@@ -63,5 +63,5 @@ Welcome to the **Medical Prescription Parsing** project! This web application le
 
 ---
 
-*Thank you for checking out the Medical Prescription Parsing project! We hope you find it useful and informative.* 🌟
+*Thank you for checking out the Medical Prescription Parsing project! I hope you find it useful and informative.* 🌟
    
