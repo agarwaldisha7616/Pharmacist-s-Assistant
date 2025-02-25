@@ -33,7 +33,7 @@ Welcome to the **Medical Prescription Parsing** project! This web application le
    ```
 2.  **Install Dependencies:**
    ```bash
-   pip install -r requirements.txt
+      pip install -r requirements.txt
    ```
 3. **Set Up Environment Variables:**
    **Create a .env file and add your OpenAI API key:**
@@ -41,14 +41,14 @@ Welcome to the **Medical Prescription Parsing** project! This web application le
    OPENAI_API_KEY=your-api-key
    ```
 
-###Usage
+## Usage
 
 1. **Run The Application:**
    ```bash
    streamlit run main.py
    ```
-2. **Upload a Prescription Image:
-   **use the web interface to upload an image
+2. **Upload a Prescription Image: **
+   **use the web interface to upload an image**
 
 3. **View Extracted Information:**
    **The application will display the parsed data.**
