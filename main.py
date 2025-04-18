@@ -15,8 +15,13 @@ import glob
 import streamlit as st
 import pandas as pd
 import shutil
+from dotenv import load_dotenv
+import os
 
-os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
+load_dotenv()
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+
+# os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 # os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 globals.set_debug(False)        #will not diplay the extra information
