@@ -2,13 +2,8 @@ streamlit
 pandas
 pydantic
 python-dotenv
-
-
 langchain
 langchain-openai
 langchain-core
-
-# Image Processing 
 Pillow
-
-base64
+openai
